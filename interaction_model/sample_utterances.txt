@@ -1,0 +1,11 @@
+GetQuoteIntent hi
+GetQuoteIntent tell me something
+
+GetFortyPercent tell me about {FortyPercent}
+GetFortyPercent about {FortyPercent}
+GetFortyPercent {FortyPercent}
+
+AMAZON.RepeatIntent repeat
+AMAZON.RepeatIntent what did you say
+AMAZON.HelpIntent help
+AMAZON.HelpIntent what can you do

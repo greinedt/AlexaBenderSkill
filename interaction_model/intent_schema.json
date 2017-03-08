@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "intent": "GetQuoteIntent"
+    },
+    {
+      "intent": "GetFortyPercent",
+      "slots": [
+        {
+          "name": "FortyPercent",
+          "type": "FORTY_PERCENT"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.RepeatIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
