@@ -2,7 +2,7 @@
 
 // ***************** SETUP *************************************************
 var Alexa = require('alexa-sdk');
-var APP_ID = "amzn1.ask.skill.c2e7ec9b-8566-4ae2-b148-30464bfdeb89"
+var APP_ID = "amzn1.ask.skill.[ID]"
 
 // ***************** RESPONSE CONSTANTS ************************************
 var  BENDER_QUOTES = [
